@@ -16,3 +16,8 @@ It analyzes code changes, finds bugs, bad practices and gives improvement sugges
 git clone https://github.com/ruimingbai/ai-code-review-cli.git
 cd ai-code-review-cli
 pip install -r requirements.txt
+## Example Output Sample
+
+## Roadmap
+- Support more code file types
+- Improve detection rules for common bugs
