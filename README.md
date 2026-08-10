@@ -21,3 +21,5 @@ pip install -r requirements.txt
 ## Roadmap
 - Support more code file types
 - Improve detection rules for common bugs
+- Fix occasional timeout bug when analyzing large code files
+- Add basic configuration support for API keys
